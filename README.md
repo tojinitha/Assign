@@ -1,5 +1,5 @@
 # Loan-Prediction
-Repo for my solution to Loan Prediction challenge by Analytics Vidhya from December 2023.
+Repo for my solution to Loan Prediction challenge by Analytics Vidhya.
 
 Also contains front end for testing predictions created using streamlit. 
 
